@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ai-home-server.com/sitemap.xml
